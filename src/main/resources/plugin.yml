@@ -1,0 +1,13 @@
+name: nonetherite
+version: '1.4'
+main: me.cheese.nonetherite.NoNetheriteCrafting
+api-version: '1.21'
+prefix: DiscoSMP Ban Netherite
+authors: [ outerspacepugyt ]
+description: No Netherite
+website: coffeepixel.net
+
+permissions:
+  nonetherite.bypass:
+    description: Allows bypassing all Netherite restrictions
+    default: op
